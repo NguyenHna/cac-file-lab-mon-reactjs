@@ -1,0 +1,16 @@
+.form-add-user input {
+  display: block;
+  width: 95%;
+  padding: 10px;
+  margin: 10px 0;
+}
+
+.form-add-user {
+  width: 60%;
+  margin: auto;
+  padding: 10px;
+}
+
+.App{
+  background-color: rgba(3, 3, 3, 0.548);
+}
