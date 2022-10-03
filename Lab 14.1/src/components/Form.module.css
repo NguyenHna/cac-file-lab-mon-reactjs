@@ -1,0 +1,25 @@
+.form {
+  width: 60%;
+  margin: auto;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.form input {
+  display: block;
+  width: 80%;
+  padding: 10px 0;
+  background-color: aqua;
+  border: none;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.form label {
+  display: block;
+}
+
+.error {
+  color: red;
+  font-size: 10px;
+}
